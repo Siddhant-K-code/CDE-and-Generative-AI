@@ -1,5 +1,8 @@
 # 🤖 Coding Assistant
 
+> [!TIP]
+> It is deployed on Streamlit using Streamlit community cloud. You can access it [here](https://demo-cde-and-generative-ai.streamlit.app/).
+
 ## Overview
 
 Coding Assistant is a demonstrative web application showcasing how to effortlessly build Generative AI tools using Gitpod's Cloud development environment. This project exemplifies the ease of developing and running resource-intensive AI applications in the cloud, freeing developers from the constraints of local machine memory and performance issues. It's particularly designed for developers who seek assistance in understanding, optimizing, and commenting their GoLang code, employing OpenAI's language models for insightful code interactions.
@@ -23,5 +26,5 @@ To use Coding assistant, Click on the following and you are good to go 🚀
 
 [![Open in Gitpod](https://www.gitpod.io/svg/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Siddhant-K-code/CDE-and-Generative-AI)
 
-> **Note:**
+> [!NOTE]
 > **API Key:** Obtain an API key from [OpenAI](https://platform.openai.com/account/api-keys).
