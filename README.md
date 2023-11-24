@@ -10,8 +10,8 @@ Coding Assistant is a demonstrative web application showcasing how to effortless
 ## Features
 
 - **Code Explanation**: Submit GoLang code to receive a simplified, bullet-point explanation of what the code does.
-- **Code Optimization**: Upload your GoLang code to get an optimized version, focusing on readability and performance while adhering to PEP8 standards.
-- **Code Commenting**: Enhance your GoLang code with comments that follow PEP8 standards, improving readability and maintainability.
+- **Code Optimization**: Upload your GoLang code to get an optimized version, focusing on readability and performance while adhering to Effective Go standards.
+- **Code Commenting**: Enhance your GoLang code with comments that follow Effective Go standards, improving readability and maintainability.
 
 ## Technology Stack
 
